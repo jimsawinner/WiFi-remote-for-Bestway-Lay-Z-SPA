@@ -35,4 +35,4 @@ Code/.vscode/extensions.json
 .pio
 .vscode
 /Code/vue-spa/node_modules/
-/Code/vue-spa/.idea/
+*.idea/
